@@ -1,0 +1,38 @@
+* {
+	text-align: center;
+}
+body{
+	background: url('https://images5.alphacoders.com/421/421841.jpg') no-repeat;
+    background-size: cover;
+}
+
+.lead {
+	font-weight: bold;
+}
+
+.lead2 {
+	font-weight: bold;
+	color: orange;
+	font-size: 22px;
+	text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+#burgers {
+	background: rgba(253, 249, 249, 0.7);
+	color: black;
+	font-weight: bold;
+}
+
+#burgers_devoured {
+	background: rgba(253, 249, 249, 0.7);
+	color: black;
+	font-weight: bold;
+}
+
+#title {
+	font-family: 'Lobster', cursive;
+	font-size: 45px;
+	color: orange;
+	text-shadow: black 0.1em 0.1em 0.2em;
+}
+
