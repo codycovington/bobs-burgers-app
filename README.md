@@ -1,4 +1,4 @@
 # burger
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/codycovington/bobs-burgers-app/blob/master/app_screenshot.png)
 
