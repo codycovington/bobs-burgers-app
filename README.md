@@ -14,6 +14,10 @@ Frontend design is managed via the Handlebars template engine and Bootstrap and 
 Tools used in production:
 <li>Node/Express</li>
 <li>MySQL</li>
+<li>Handlebars</li>
+<li>Bootstrap</li>
+<li>Heroku Deployment via CLI </li>
+
 
 
 
